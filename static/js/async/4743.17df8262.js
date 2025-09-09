@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrebuild_vue3_vant4=self.webpackChunkrebuild_vue3_vant4||[]).push([["4743"],{6071:function(e,u,n){n.r(u),n.d(u,{default:()=>l});var t=n(796);let l=(0,n(3744).default)({},[["render",function(e,u){return(0,t.wg)(),(0,t.iD)("div",null,"幸运开奖")}]])}}]);
